@@ -15,6 +15,7 @@ knee_cave_threshold = 0.25 # In degrees
 neck_uneven_threshold = 0.35
 hip_shift_threshold = 0.1
 wrist_uneven_threshold = 0.1
+test = 0
 
 
 # Default Message
